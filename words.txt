@@ -1,9 +1,11 @@
 beautiful
 brand new
+brand-new
 breathtaking
 bright
 built-to-last
-built-in / built-ins
+built-in
+built-ins
 canopy
 character
 cellar
@@ -21,3 +23,14 @@ cul-de-sac
 culture
 custom
 custom-built
+luxury
+luxurious
+commercial-grade
+spacious
+well-rounded
+stainless
+panoramic
+boasts
+complemented
+elegance
+convenience
